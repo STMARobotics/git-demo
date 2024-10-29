@@ -1,0 +1,5 @@
+New Robot code
+
+shooter = drivetrain
+indexer = mmanipulate
+robot color = dunkelgelb
